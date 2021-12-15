@@ -1,5 +1,10 @@
-Flysystem adaptation for mihaildev/yii2-elfinder
-===========================
+# Flysystem adaptation for mihaildev/yii2-elfinder
+
+[![Latest Stable Version](https://poser.pugx.org/kostikpenzin/yii2-elfinder-flysystem/v/stable)](https://packagist.org/packages/kostikpenzin/yii2-elfinder-flysystem)
+[![Total Downloads](https://poser.pugx.org/kostikpenzin/yii2-elfinder-flysystem/downloads)](https://packagist.org/packages/kostikpenzin/yii2-elfinder-flysystem)
+[![Latest Unstable Version](https://poser.pugx.org/kostikpenzin/yii2-elfinder-flysystem/v/unstable)](https://packagist.org/packages/kostikpenzin/yii2-elfinder-flysystem)
+[![License](https://poser.pugx.org/kostikpenzin/yii2-elfinder-flysystem/license)](https://packagist.org/packages/kostikpenzin/yii2-elfinder-flysystem)
+[![Monthly Downloads](https://poser.pugx.org/kostikpenzin/yii2-elfinder-flysystem/d/monthly)](https://packagist.org/packages/kostikpenzin/yii2-elfinder-flysystem)
 
 Extension adaptation https://github.com/barryvdh/elfinder-flysystem-driver
 
