@@ -1,0 +1,28 @@
+{
+    "name": "kostikpenzin/yii2-elfinder-flysystem",
+    "keywords": ["yii", "yii2", "elfinder", "flysystem"],
+    "description": "Yii2 ElFinder Flysystem",
+    "homepage": "https://github.com/kostikpenzin/yii2-elfinder-flysystem",
+    "license": "BSD-3-Clause",
+    "minimum-stability":"stable",
+    "authors": [
+        {
+            "name": "Konstantin Penzin",
+            "email": "penzin85@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"kostikpenzin\\elfinder\\flysystem\\": ""}
+    },
+    "require": {
+        "mihaildev/yii2-elfinder": "*",
+        "creocoder/yii2-flysystem": "1.1.*",
+        "barryvdh/elfinder-flysystem-driver": "0.3.*"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
