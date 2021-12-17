@@ -1,5 +1,5 @@
 <?php
-namespace mihaildev\elfinder\flysystem;
+namespace kostikpenzin\elfinder\flysystem;
 
 
 use League\Flysystem\Filesystem;
