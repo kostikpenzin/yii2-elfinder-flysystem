@@ -1,4 +1,4 @@
-# Flysystem adaptation for mihaildev/yii2-elfinder
+# Flysystem (GoogleCloud) adaptation for mihaildev/yii2-elfinder
 
 [![Latest Stable Version](https://poser.pugx.org/kostikpenzin/yii2-elfinder-flysystem/v/stable)](https://packagist.org/packages/kostikpenzin/yii2-elfinder-flysystem)
 [![Total Downloads](https://poser.pugx.org/kostikpenzin/yii2-elfinder-flysystem/downloads)](https://packagist.org/packages/kostikpenzin/yii2-elfinder-flysystem)
