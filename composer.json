@@ -17,7 +17,9 @@
     "require": {
         "mihaildev/yii2-elfinder": "*",
         "creocoder/yii2-flysystem": "1.1.*",
-        "barryvdh/elfinder-flysystem-driver": "0.3.*"
+        "barryvdh/elfinder-flysystem-driver": "0.3.*",
+        "superbalist/flysystem-google-storage": "^7.2",
+        "league/flysystem-aws-s3-v3": "~1.0"
     },
     "repositories": [
         {
