@@ -106,9 +106,9 @@ class AwsS3Filesystem extends Filesystem
             $config['region'] = $this->region;
         }
 
-        if ($this->baseUrl !== null) {
-            $config['base_url'] = $this->baseUrl;
-        }
+        //if ($this->baseUrl !== null) {
+        //    $config['base_url'] = $this->baseUrl;
+        //}
 
         if ($this->endpoint !== null) {
             $config['endpoint'] = $this->endpoint;
